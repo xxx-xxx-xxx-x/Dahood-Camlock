@@ -17,3 +17,13 @@ Please refer to the [LICENSE HERE](https://github.com/xxx-xxx-xxx-x/Dahood-Camlo
 
 
 If you are going to misinterpret how this was meant to be used and skid off it to sell please credit @laak6739 atleast.
+
+
+
+
+https://github.com/xxx-xxx-xxx-x/Dahood-Camlock/assets/173975966/493e7bfb-382f-4819-9e2b-05ad647c70e7
+
+
+https://github.com/xxx-xxx-xxx-x/Dahood-Camlock/assets/173975966/f73cd27f-d7ea-4426-b613-bc837ab9474c
+
+
