@@ -8,7 +8,7 @@ Its nothing special just learning material
 
 ---
 
-This project is freely available and open source. However, ownership rights are retained by the developer, kiz. Please refer to the document for detailed information. You are welcome to incorporate or adapt this script or any system from this project into your repositories, provided that proper credit is given toki.
+This project is freely available and open source. However, ownership rights are retained by the developer, kiz. Please refer to the document for detailed information. You are welcome to incorporate or adapt this script or any system from this project into your repositories, provided that proper credit is given 
 
 ---
 + I will be uploading some of my projects to  help others learn lua as I lost my old github.
