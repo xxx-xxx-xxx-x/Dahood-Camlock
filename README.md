@@ -16,7 +16,7 @@ This project is freely available and open source. However, ownership rights are 
 Please refer to the [LICENSE HERE](https://github.com/xxx-xxx-xxx-x/Dahood-Camlock/blob/main/LICENSE) for more details.
 
 
-do notmisinterpret how this was meant to be used and skid off it to sell.
+do not misinterpret how this was meant to be used and skid off it to sell.
 
 
 
